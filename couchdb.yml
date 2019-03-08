@@ -1,0 +1,9 @@
+---
+- hosts: couchdb
+  become: true
+  vars:
+    php_default_version_debian: "7.1"
+    mg_version: "2.2.4"
+
+  roles:
+    - /shifteoops.apache_role

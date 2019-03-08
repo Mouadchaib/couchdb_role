@@ -1,0 +1,7 @@
+---
+hostname: 127.0.0.1
+port: '2210'
+username: vagrant
+ssh_key: "/home/mouad/Documents/couchdb/couchdb_role/.kitchen/kitchen-vagrant/couchdb-ubuntu-1804/.vagrant/machines/default/virtualbox/private_key"
+last_action: create
+last_error: Kitchen::ActionFailed

@@ -1,0 +1,1 @@
+{"virtualbox":{"/var/www/couchdb":{"create":true,"owner":"www-data","group":"www-data","guestpath":"/var/www/couchdb","hostpath":"/home/mouad/couchdb","disabled":false,"__vagrantfile":true}}}
